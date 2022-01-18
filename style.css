@@ -6,6 +6,14 @@ nav {
     background-color: greenyellow;
     text-align: center;
 }
-p.firstParf {
+main {
     background-color: orange;
+}
+
+iframe.map {
+    display: block;
+}
+
+iframe.videoYT {
+    display: block;
 }
